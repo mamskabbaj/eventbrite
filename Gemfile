@@ -70,6 +70,9 @@ gem 'faker'
 gem 'bcrypt'
 gem 'table_print'
 gem 'dotenv-rails'
+gem'letter_opener'
+gem 'dotenv-rails'
+
 group :test do
   # Use system testing [https://guides.rubyonrails.org/testing.html#system-testing]
   gem "capybara"
